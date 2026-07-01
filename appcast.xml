@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CleanKey</title>
+    <item>
+      <title>CleanKey 1.6.0</title>
+      <pubDate>Wed, 01 Jul 2026 11:00:41 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.6.0/CleanKey-1.6.0.dmg" type="application/octet-stream" sparkle:edSignature="nJSlo4HQ+V3OJW30MrFhImCt06n5Y7Z3BVKItiMDIdVNRn0WZKbCt2DTz6DGtMroQXSEBclzeoAUrtocxn/OCw==" length="2349182" />
+    </item>
+  </channel>
+</rss>
