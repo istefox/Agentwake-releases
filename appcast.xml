@@ -3,6 +3,14 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.7.7</title>
+      <pubDate>Thu, 02 Jul 2026 12:25:05 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.7.7/CleanKey-1.7.7.dmg" type="application/octet-stream" sparkle:edSignature="h05SMdE/VZnk1mpICozXkaz74h0xI7OFhYdUSYepVtkgI9PDA3hp9qjgcTYB3rfFN9S7LEUTXw8BMmVEuqXuBA==" length="2460717" />
+    </item>
+    <item>
       <title>CleanKey 1.7.6</title>
       <pubDate>Wed, 01 Jul 2026 21:32:57 +0000</pubDate>
       <sparkle:version>24</sparkle:version>
