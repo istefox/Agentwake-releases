@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.12.3</title>
+      <pubDate>Sun, 05 Jul 2026 01:15:52 +0000</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>1.12.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Widen the sidebar and remember window and sidebar size</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.12.3/CleanKey-1.12.3.dmg" type="application/octet-stream" sparkle:edSignature="LQXDycU+3Ky2zWRrXFCCEjtDXLZfIzIdFdAFLPkopZHW37w+j5XfVyBKyWKwW4LkWS4DHWmiPV+YdYJDsYUWCQ==" length="2686892" />
+    </item>
+    <item>
       <title>CleanKey 1.12.2</title>
       <pubDate>Sun, 05 Jul 2026 00:27:02 +0000</pubDate>
       <sparkle:version>34</sparkle:version>
