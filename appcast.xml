@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.14.0</title>
+      <pubDate>Sun, 05 Jul 2026 20:00:18 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Pro History/Metrics/Billing + consent + CSV + gating (T9)</li><li>Standalone window, Live view, composable table (T8)</li><li>Wire Pro history + report into the adapter (T7)</li><li>Consent gate, view composition, end-of-session report (T6)</li><li>Add AgentSessionHistorian for session history (T5)</li><li>Add SwiftData history store and model graph (T4)</li><li>Guarded runtime pricing refresh + CI regeneration script (T3)</li><li>Token-cost core — usage parser, cost math, pricing table (T2)</li><li>Add pure billable-time compute and value types (T1)</li></ul><h3>Fixes</h3><ul><li>Mark AgentSessionHistorian.identity nonisolated</li><li>Wire token-cost pipeline end-to-end + Decimal override (review)</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.14.0/CleanKey-1.14.0.dmg" type="application/octet-stream" sparkle:edSignature="Qsw4GLegjZm32+DkKPSj2XVg5uWqvb0+7trdxbzh9qVJj+7JrpGSURHWcjiOtDftlHvX2L/YkfVboPIZqAPFBQ==" length="3161270" />
+    </item>
+    <item>
       <title>CleanKey 1.13.1</title>
       <pubDate>Sun, 05 Jul 2026 19:48:24 +0000</pubDate>
       <sparkle:version>37</sparkle:version>
