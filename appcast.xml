@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.15.3</title>
+      <pubDate>Sat, 11 Jul 2026 21:39:35 +0000</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.15.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Bound the retention fetch and stabilize session identity</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.15.3/CleanKey-1.15.3.dmg" type="application/octet-stream" sparkle:edSignature="XZAP6fGR3dfvDGmb/nTpKAn5ngUziZ87vwFHDBRzKokdIbSYHqRAihpf8DlQ5B+gxeIW0OZQ21Yx0ahWoU6nCg==" length="3148143" />
+    </item>
+    <item>
       <title>CleanKey 1.15.2</title>
       <pubDate>Sat, 11 Jul 2026 18:58:28 +0000</pubDate>
       <sparkle:version>42</sparkle:version>
