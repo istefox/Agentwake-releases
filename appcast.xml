@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.15.2</title>
+      <pubDate>Sat, 11 Jul 2026 18:58:28 +0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.15.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Revert wireAlertCenter reorder from 1.15.1</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.15.2/CleanKey-1.15.2.dmg" type="application/octet-stream" sparkle:edSignature="T6XNgPaaruix3TrF8OAFVmyVbT8M6EbSsAhucBt1ycff9d+rrB446ADj+hDWV3wWVgklAUeSYtrpmcn3BpWAAQ==" length="3143978" />
+    </item>
+    <item>
       <title>CleanKey 1.15.1</title>
       <pubDate>Sat, 11 Jul 2026 17:32:27 +0000</pubDate>
       <sparkle:version>41</sparkle:version>
