@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.16.0</title>
+      <pubDate>Tue, 14 Jul 2026 13:09:41 +0000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Add lid-open summary on wake from clamshell (ADR-027)</li><li>Add lid-close chime and pre-sleep audio motifs</li><li>Add preset quick-hold durations with countdown</li><li>Add cleankey mcp for agent-callable keep-awake holds</li><li>Add cleankey command-line tool for SSH-reachable holds</li><li>Process-detection fallback with CPU-idle release</li><li>Data-driven tool registry with custom agents</li></ul><h3>Fixes</h3><ul><li>Render expired holds and session detail in lid summary</li><li>Convert setUpWithError/tearDownWithError to async in cleankey-cli tests</li><li>Convert setUpWithError/tearDownWithError to async in BeatFileWriterTests</li><li>Drop super.setUp() call in ClamshellWindowRecorderTests for the same reason</li><li>Drop redundant super.setUp()/tearDown() calls to fix Swift 6 sending error</li><li>Make ClamshellWindowRecorderTests.setUp() async for the same MainActor rule</li><li>Make remaining sync setUp() overrides async in @MainActor test classes</li><li>Make setUp/tearDown async where they mutate AgentToolCatalog.current</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.16.0/CleanKey-1.16.0.dmg" type="application/octet-stream" sparkle:edSignature="OBy5mTRxWEYstocpJRGScUvkAlw0YSFo8AEX6dXnoGaUfivxbo/b2KxSB9taZ+CATShHZjf8Nr3aw9NC4AnMDw==" length="3830449" />
+    </item>
+    <item>
       <title>CleanKey 1.15.3</title>
       <pubDate>Sat, 11 Jul 2026 21:39:35 +0000</pubDate>
       <sparkle:version>43</sparkle:version>
