@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
+    <item>
+      <title>Agentwake 2.0.0</title>
+      <pubDate>Sun, 19 Jul 2026 11:25:22 +0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Notes</h3><ul><li>CleanKey is now Agentwake. Same app, same developer, new name: the real job was always keeping your Mac awake while an AI coding agent works, and the name says so now.</li><li>If you had CleanKey installed, remove it and install Agentwake fresh. Accessibility permission needs a one-time re-grant under the new identity, and any Pro license still applies. See the README for the full migration note.</li><li>No feature changes in this release. It exists to carry the rename.</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v2.0.0/Agentwake-2.0.0.dmg" type="application/octet-stream" sparkle:edSignature="KRN/iAWRnFUoXHC5UnarodLsY+71Gn0dt0MMQXQBrUDQnXtOzqoosmNdhMpv/ccGkEi2JfHrd7yIqyoxraGcBg==" length="3836129" />
+    </item>
     <title>CleanKey</title>
     <item>
       <title>CleanKey 1.16.1</title>
