@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Agentwake 2.0.1</title>
+      <pubDate>Mon, 20 Jul 2026 20:46:27 +0000</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Alert dot, wider sun-ray gap, and new app icon</li></ul><h3>Fixes</h3><ul><li>Correct article grammar left over from the rename</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v2.0.1/Agentwake-2.0.1.dmg" type="application/octet-stream" sparkle:edSignature="IBqC/IcXIpNABkyPKp6/JiDbCnBGK5s/8iKXISwokafVvq2K0Q7Uq5QlaR8QFLIOwrT1Snu13Fy1bl1fKLSrCw==" length="4339013" />
+    </item>
+    <item>
       <title>Agentwake 2.0.0</title>
       <pubDate>Sun, 19 Jul 2026 11:25:22 +0000</pubDate>
       <sparkle:version>46</sparkle:version>
