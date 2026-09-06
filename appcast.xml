@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Agentwake 3.0.4</title>
+      <pubDate>Sun, 06 Sep 2026 20:33:40 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>3.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Hoist per-poll allocation, extract observer startup and pause-resume helper</li><li>Validate untrusted keys/session ids before path concatenation, stop trusting a bare cached license flag</li></ul><h3>Performance</h3><ul><li>Cache hold-file reads with a per-file mtime signature</li><li>Cut redundant status writes, feed rescans, stat calls, line copies and catalog walks</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v3.0.4/Agentwake-3.0.4.dmg" type="application/octet-stream" sparkle:edSignature="vTguDXqN0ItjOVYLNb3ETn5LWO+KJy22Jopp6yJBdYc6ftYkq/2ylJY5GLPHoyNgQJTGlidzdT4ivIlIdldzBQ==" length="4378489" />
+    </item>
+    <item>
       <title>Agentwake 3.0.3</title>
       <pubDate>Tue, 25 Aug 2026 09:13:13 +0000</pubDate>
       <sparkle:version>54</sparkle:version>
