@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Agentwake 3.0.5</title>
+      <pubDate>Mon, 07 Sep 2026 08:25:07 +0000</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>3.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Close tap-timeout/watchdog race that dropped the lock during keyboard mashing</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v3.0.5/Agentwake-3.0.5.dmg" type="application/octet-stream" sparkle:edSignature="Sl+K3pP1bWkvCUJ2IWgzJ460hy/1ZvWKhS/H9w5MAPo0ol6UQPn4WHf11n+1eBBrZBiDyrPUzv7AHht4f/wyDw==" length="4381236" />
+    </item>
+    <item>
       <title>Agentwake 3.0.4</title>
       <pubDate>Sun, 06 Sep 2026 20:33:40 +0000</pubDate>
       <sparkle:version>55</sparkle:version>
