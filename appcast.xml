@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Agentwake 3.1.0</title>
+      <pubDate>Wed, 09 Sep 2026 11:36:49 +0000</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Add disable-all-wake menu entry, gated toggle and presets</li><li>Render wake-disabled menu-bar badge</li><li>Suppress pre-sleep audio and lid summary while override armed</li><li>Add disable-all-wake adapter actions and engage gate</li><li>Add suppression injection and silent resets</li></ul><h3>Fixes</h3><ul><li>Implement legible wake-disabled badge from design brief</li><li>Wire the isSuppressed seam at both watcher construction sites</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v3.1.0/Agentwake-3.1.0.dmg" type="application/octet-stream" sparkle:edSignature="ceLo+FyELZTnQfYtcOdMoLJ3Wyfp3WSsMYudbGXoOn6G7c+qF8bHqsjRu6+0MmudICsD5vrkzSq5OqdoFQs+DQ==" length="4391466" />
+    </item>
+    <item>
       <title>Agentwake 3.0.5</title>
       <pubDate>Mon, 07 Sep 2026 08:25:07 +0000</pubDate>
       <sparkle:version>56</sparkle:version>
