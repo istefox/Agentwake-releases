@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Agentwake 3.2.0</title>
+      <pubDate>Thu, 01 Oct 2026 09:53:13 +0000</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Add keep awake indefinitely menu action</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v3.2.0/Agentwake-3.2.0.dmg" type="application/octet-stream" sparkle:edSignature="WTbkCxeqwkUqLFiOQ/0jxbuwkdF7mHXgx7sG20FdPolII99UZXIVNQh5zHLeF3lgcTUQnhOzAJkRN3iAO7qGDg==" length="4394693" />
+    </item>
+    <item>
       <title>Agentwake 3.1.0</title>
       <pubDate>Wed, 09 Sep 2026 11:36:49 +0000</pubDate>
       <sparkle:version>57</sparkle:version>
