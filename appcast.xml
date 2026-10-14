@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Agentwake 3.2.1</title>
+      <pubDate>Wed, 14 Oct 2026 13:02:35 +0000</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>3.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Stop failed saves from piling up pending inserts</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v3.2.1/Agentwake-3.2.1.dmg" type="application/octet-stream" sparkle:edSignature="o8WeYQklTydCBPuNRs+cu35wx55sIg08QoJWYIe+oFg518s56lR1MsruhbhCRoiQzB43th0FTCAdrOXq8d2WDg==" length="4397421" />
+    </item>
+    <item>
       <title>Agentwake 3.2.0</title>
       <pubDate>Thu, 01 Oct 2026 09:53:13 +0000</pubDate>
       <sparkle:version>58</sparkle:version>
